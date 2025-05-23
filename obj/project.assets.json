@@ -543,11 +543,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\KiemTraDiemB\\KiemTraDiemB\\KiemTraDiemB.csproj",
+      "projectUniqueName": "F:\\NguyenDuyDat_2121050934_KiemTra_2425\\KiemTraDiemB\\KiemTraDiemB.csproj",
       "projectName": "KiemTraDiemB",
-      "projectPath": "F:\\KiemTraDiemB\\KiemTraDiemB\\KiemTraDiemB.csproj",
+      "projectPath": "F:\\NguyenDuyDat_2121050934_KiemTra_2425\\KiemTraDiemB\\KiemTraDiemB.csproj",
       "packagesPath": "C:\\Users\\84345\\.nuget\\packages\\",
-      "outputPath": "F:\\KiemTraDiemB\\KiemTraDiemB\\obj\\",
+      "outputPath": "F:\\NguyenDuyDat_2121050934_KiemTra_2425\\KiemTraDiemB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\84345\\AppData\\Roaming\\NuGet\\NuGet.Config"
